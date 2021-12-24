@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "poligonosappreactprojectvs22", "poligonosappreactprojectvs22\poligonosappreactprojectvs22.esproj", "{9BC48740-8D9A-4862-97E4-613A972F65EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC48740-8D9A-4862-97E4-613A972F65EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC48740-8D9A-4862-97E4-613A972F65EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC48740-8D9A-4862-97E4-613A972F65EF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9BC48740-8D9A-4862-97E4-613A972F65EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC48740-8D9A-4862-97E4-613A972F65EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC48740-8D9A-4862-97E4-613A972F65EF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {454E4815-D7EC-4B4B-9B3F-FCE50556A0E6}
+	EndGlobalSection
+EndGlobal

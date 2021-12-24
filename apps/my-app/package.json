@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "my-toolchain": "^1.0.0",
+    "poligonosapp__tests__": "^1.0.0",
     "typescript": "^3.0.3"
   }
 }
