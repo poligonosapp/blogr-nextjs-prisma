@@ -12,6 +12,7 @@
     <Version>1.8.5</Version>
     <Authors>Fabio Rodrigues https://www.facebook.com/kefaro, Luis Mendes machadoluismendes@gmail.com</Authors>
     <Company>poligonosapp</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
