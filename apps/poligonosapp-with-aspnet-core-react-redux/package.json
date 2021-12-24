@@ -1,4 +1,5 @@
 {
+  "author": "Fabio Rodrigues https://www.facebook.com/kefaro, Luis Mendes machadoluismendes@gmail.com",
   "devDependencies": {
     "example-manual-mock": "^0.0.1",
     "poligonosapp__tests__": "^1.0.0"

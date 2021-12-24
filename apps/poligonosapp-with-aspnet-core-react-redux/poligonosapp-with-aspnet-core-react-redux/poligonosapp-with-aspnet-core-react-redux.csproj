@@ -8,6 +8,10 @@
     <SpaRoot>ClientApp\</SpaRoot>
     <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
     <RootNamespace>poligonosapp_with_aspnet_core_react_redux</RootNamespace>
+    <PackageId>poligonosapp</PackageId>
+    <Version>1.8.5</Version>
+    <Authors>Fabio Rodrigues https://www.facebook.com/kefaro, Luis Mendes machadoluismendes@gmail.com</Authors>
+    <Company>poligonosapp</Company>
   </PropertyGroup>
 
   <ItemGroup>
