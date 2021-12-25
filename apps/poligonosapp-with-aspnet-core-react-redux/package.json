@@ -1,5 +1,6 @@
 {
   "author": "Fabio Rodrigues https://www.facebook.com/kefaro, Luis Mendes machadoluismendes@gmail.com",
+  "license": "BSD-2-Clause",
   "devDependencies": {
     "example-manual-mock": "^0.0.1",
     "poligonosapp__tests__": "^1.0.0"

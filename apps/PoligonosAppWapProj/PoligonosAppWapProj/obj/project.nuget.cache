@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZZD0x/TZsiy1pofP0Z3tMg6N6J6Y/uhbH475XyilNcG7MrClSh903la01I+ETpABZ2yuJ2rnRQbsz/kwObZIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luis\\source\\repos\\rush-example\\apps\\PoligonosAppWapProj\\PoligonosAppWapProj\\PoligonosAppWapProj.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22000.194\\microsoft.windows.sdk.buildtools.10.0.22000.194.nupkg.sha512"
+  ],
+  "logs": []
+}
