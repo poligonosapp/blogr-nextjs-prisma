@@ -1,0 +1,14 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sampleClientScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Rodrigues https://www.facebook.com/kefaro, Luis Mendes machadoluismendes@gmail.com",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
