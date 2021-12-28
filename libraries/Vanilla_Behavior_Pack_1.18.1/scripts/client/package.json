@@ -4,11 +4,16 @@
   "description": "",
   "main": "sampleClientScript.js",
   "scripts": {
+    "start": "ts-node start",
+    "build": "build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Fabio Rodrigues https://www.facebook.com/kefaro, Luis Mendes machadoluismendes@gmail.com",
   "license": "BSD-2-Clause",
   "dependencies": {
     "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0"
   }
 }

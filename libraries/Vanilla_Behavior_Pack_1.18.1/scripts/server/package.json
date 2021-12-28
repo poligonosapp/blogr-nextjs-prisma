@@ -4,6 +4,8 @@
   "description": "",
   "main": "height_randomizer.js",
   "scripts": {
+    "start": "ts-node start index.ts",
+    "build": "build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Fabio Rodrigues https://www.facebook.com/kefaro, Luis Mendes machadoluismendes@gmail.com",
@@ -11,5 +13,8 @@
   "dependencies": {
     "typescript": "^4.5.4",
     "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0"
   }
 }

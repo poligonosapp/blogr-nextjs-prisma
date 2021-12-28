@@ -1,8 +1,13 @@
 {
   "author": "Fabio Rodrigues https://www.facebook.com/kefaro, Luis Mendes machadoluismendes@gmail.com",
   "license": "BSD-2-Clause",
+  "scripts": {
+    "start": "ts-node start index.ts",
+    "build": "build"
+  },
   "devDependencies": {
     "example-manual-mock": "^0.0.1",
-    "poligonosapp__tests__": "^1.0.0"
+    "poligonosapp__tests__": "^1.0.0",
+    "ts-node": "^10.4.0"
   }
 }
