@@ -9,5 +9,9 @@
     "example-manual-mock": "^0.0.1",
     "poligonosapp__tests__": "^1.0.0",
     "ts-node": "^10.4.0"
+  },
+  "engines": {
+    "node": "12.0",
+    "npm": "8.1.0"
   }
 }

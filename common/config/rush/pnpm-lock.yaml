@@ -6,6 +6,7 @@ specifiers:
   '@rush-temp/my-toolchain': file:./projects/my-toolchain.tgz
   '@types/node': ^10.9.4
   colors: ^1.3.2
+  poligonosapp__tests__: ^1.0.0
   rimraf: ^2.6.2
   typescript: ^3.0.3
   whatwg-fetch: ^3.0.0
@@ -16,6 +17,7 @@ dependencies:
   '@rush-temp/my-toolchain': file:projects/my-toolchain.tgz
   '@types/node': 10.17.60
   colors: 1.4.0
+  poligonosapp__tests__: 1.0.0
   rimraf: 2.7.1
   typescript: 3.9.10
   whatwg-fetch: 3.6.2
@@ -89,6 +91,10 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: false
 
+  /poligonosapp__tests__/1.0.0:
+    resolution: {integrity: sha512-iRukJOAh3Hnwkv/QwPUWCLUXjdDOP7EF72AvlnPsycrtyXiOKjm7PDxXAFi8y11z0wJPV6eglqtEhdCR1XkKXQ==}
+    dev: false
+
   /rimraf/2.7.1:
     resolution: {integrity: sha512-uWjbaKIK3T1OSVptzX7Nl6PvQ3qAGtKEtVRjRuazjfL3Bx5eI409VZSqgND+4UNnmzLVdPj9FqFJNPqBZFve4w==}
     hasBin: true
@@ -111,10 +117,11 @@ packages:
     dev: false
 
   file:projects/my-app.tgz:
-    resolution: {integrity: sha512-5hQYNQ4OaheE4snzorkB/UcTAnQcq8uQ0uHMSpu7Q/3IPc6neV5wlvC9IM2aRs+YoC5MpjQlzP8AneCY+KngnQ==, tarball: file:projects/my-app.tgz}
+    resolution: {integrity: sha512-iSaSV75xYl0mQISZg03cxDEjbv6OjVHXH0rFnOMZ0vgYk9HL0fDfzhVSdsaoGKdr3jkOC+LHMHfSKMg4mgxuSQ==, tarball: file:projects/my-app.tgz}
     name: '@rush-temp/my-app'
     version: 0.0.0
     dependencies:
+      poligonosapp__tests__: 1.0.0
       typescript: 3.9.10
       whatwg-fetch: 3.6.2
     dev: false
