@@ -14,3 +14,5 @@ fetch('/process', {
     favoriteColor: 'blue'
   }
 })
+
+export {}

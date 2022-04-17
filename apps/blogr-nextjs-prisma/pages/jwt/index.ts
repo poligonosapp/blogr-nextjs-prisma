@@ -26,3 +26,5 @@ app.get('/form', csrfProtection, function (req, res) {
 app.post('/process', parseForm, csrfProtection, function (req, res) {
   res.send('data is being processed')
 })
+
+export {}
